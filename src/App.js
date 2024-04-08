@@ -1,24 +1,27 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './Head';
+import HomeImage from './HomeImage';
+import About from './About';
+import Skills from './Skills';
+import Experience from './Experience';
+import Testimonial from './Testimonial';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div className="App  justify-between space-y-4 ">
+
+      <Header />   
+      <h1>k</h1>
+      <HomeImage /> 
+      <About />
+      <Skills />
+      <Experience />
+      <Testimonial />
+      </div>
+      
+
+    
   );
 }
 
