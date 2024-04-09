@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import './homepage.css'
+import { CgProfile } from "react-icons/cg";
 
 function Header(){
     
@@ -18,13 +19,14 @@ function Header(){
                 </div>
                 <div className="  mr-12 text-md font-semibold text-white">
                     <ul className=" flex space-x-6 justify-end  hover: cursor-pointer ">
-                    <li className="list">Homeeeeej</li>
+                    <li className="list">Home</li>
                     <li className="list">About</li>
                     <li className="list">Contact</li>
                     </ul>
                 </div>
-                <div>
-                    <img src='person.jpg' alt='loko' className=" w-12 -12"></img>
+                <div className=" text-white text-lg flex items-center space-x-2 mr-4">
+               
+                    <CgProfile className=" w-10 h-8"/>
                   
                     
                 </div>

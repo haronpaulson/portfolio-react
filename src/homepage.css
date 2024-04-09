@@ -6,6 +6,10 @@
     background-size: contain;
 }
 
+.list a {
+    width: 90px;
+}
+
 .imgs {
     
     object-fit: cover;

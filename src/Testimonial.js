@@ -13,7 +13,7 @@ function Testimonial() {
         slidesToScroll: 1
       };
   return (
-    <div className=' pl-20 pr-10'>
+    <div className=' pl-20 pr-10 pb-10'>
         <div>
             <div>
                 <h1 className=' text-white text-4xl font-bold text-center mb-0'> Testimonials</h1>
