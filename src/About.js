@@ -10,7 +10,7 @@ function About() {
                     <div className=" flex text-white space-x-2 ">
                     <div className=" "> ----
                     </div>
-                    <p1>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem officiis quae id est, dignissimos neque inventore quibusdam nobis, cum perspiciatis quo, a ullam quos dolor cumque quasi harum vel voluptatem</p1>
+                    <p1>Detail-oriented and analytical Junior Business Analyst with a strong foundation in data analysis, project management, and business process improvement. Have hands-on experience in gathering requirements, conducting market research, and supporting decision-making processes. Proficient in using analytical tools such as Excel, Power Bi to interpret data and generate actionable insights. Excellent communication and problem-solving skills, with a proven ability to work collaboratively in team environments to achieve business objectives. Seeking to leverage my skills and knowledge to contribute to the success of a dynamic organization.</p1>
                     </div>
                   
                 </div>
